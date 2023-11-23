@@ -1,0 +1,17 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2022-12-20 17:34:45 -0700",
+      "plains": "2022-12-20 17:26:40 -0700",
+      "river": "2022-12-20 17:26:54 -0700",
+      "desert": "2022-12-20 17:34:22 -0700"
+    },
+    "done": false
+  },
+  "bewitchment:root": {
+    "criteria": {
+      "tick": "2022-12-20 17:26:40 -0700"
+    },
+    "done": true
+  }
+}
